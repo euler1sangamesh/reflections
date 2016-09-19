@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A .git directory is created. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+All the files in the directory may not be required to be tracked. Statging area is a convenient place to assemble all the files that has to be tracked.
