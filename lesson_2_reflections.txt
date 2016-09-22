@@ -5,3 +5,14 @@ A .git directory is created.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 All the files in the directory may not be required to be tracked. Statging area is a convenient place to assemble all the files that has to be tracked.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Use "git diff --staging" to check before commit.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ While trying variations.
+
+How do the diagrams help you visualize the branch structure?
+THe diagrams tell parent-child relation ship of the tree.
