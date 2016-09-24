@@ -21,3 +21,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 A new commit that has codes from both the bramch.
 We rpresent the diagram the way we since the commit has two or more parents.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merge is easy. Manual merge is essential in case of conflicts since human judgement is necessary.
